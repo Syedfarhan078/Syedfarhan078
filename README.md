@@ -38,7 +38,7 @@ I enjoy turning ideas into working projects, learning how systems are designed, 
 
 I regularly practice **Data Structures & Algorithms** and focus on understanding the logic behind problems rather than simply memorizing solutions.
 
-**LeetCode:** [My Profile](https://leetcode.com/)
+**LeetCode:** [My Profile](https://leetcode.com/u/syedfarhan078/)
 
 ---
 
